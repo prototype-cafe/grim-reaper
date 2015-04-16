@@ -1,0 +1,18 @@
+{
+  "name": "grim-reaper",
+  "version": "0.0.0",
+  "private": true,
+  "author": "Katsuyuki Tateishi <kt@wheel.jp>",
+  "description": "Reap messages posted to #dev_null in 5 minutes",
+  "dependencies": {
+    "hubot": "^2.12.0",
+    "hubot-diagnostics": "0.0.1",
+    "hubot-redis-brain": "0.0.2",
+    "hubot-scripts": "^2.5.16",
+    "hubot-slack-reaper": "git://github.com/ktateish/hubot-slack-reaper",
+    "hubot-slack": "^3.3.0"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
