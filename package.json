@@ -9,7 +9,7 @@
     "hubot-diagnostics": "0.0.1",
     "hubot-redis-brain": "0.0.2",
     "hubot-scripts": "^2.5.16",
-    "hubot-slack-reaper": "https://github.com/prototype-cafe/hubot-slack-reaper#next",
+    "hubot-slack-reaper": "https://github.com/prototype-cafe/hubot-slack-reaper",
     "hubot-slack": "^3.3.0"
   },
   "engines": {
